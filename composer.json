@@ -1,0 +1,21 @@
+{
+    "name": "wxpay/pay",
+    "description": "this is wxpay test",
+    "type": "library",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yoyoacg",
+            "email": "1031060898@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "wxpay\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
